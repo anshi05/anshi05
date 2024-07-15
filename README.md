@@ -4,7 +4,7 @@
 # 💫 About Me:
 * Studying Information Technology @ NITK-Surathkal, India.
 * Web Developer @ E-Summit & Innovation Committee(ESIC), NITK.
-* Currently working on creating a new website for E-Summit with my team.
+* Currently working on creating a new website for E-Summit and ENGINEER'24 websites.
 * I'm currently exploring Machine Learning.
 * Eager to contribute to open source.
 * Interested to participate in Hackathons?...then reach out to me at<br>
