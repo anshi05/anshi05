@@ -9,7 +9,7 @@
 * Eager to contribute to open source.
 * Interested to participate in Hackathons?...then reach out to me at<br>
 
-  [![Email Badge](https://img.shields.io/badge/-anshijio123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:anshijio123@gmail.com)
+  [![Email Badge](https://img.shields.io/badge/-anshijio123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:anshi.sachan5@gmail.com)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshi-sachan/) <br/><br/>
