@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Anshi Sachan</h1>
-<h3 align="center">A Web-Dev Enthusiast from India</h3>
+<h3 align="center">A Web-Developer from India</h3>
 
 # 💫 About Me:
 * Studying Information Technology @ NITK-Surathkal, India.
