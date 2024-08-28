@@ -12,7 +12,10 @@
   [![Email Badge](https://img.shields.io/badge/-anshi.sachan5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:anshi.sachan5@gmail.com)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshi-sachan/) <br/><br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshi-sachan/) 
+[![Medium](https://img.shields.io/badge/Medium-white.svg?logo=medium&logoColor=black)](https://medium.com/@anshijio123/about) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-orange.svg?logo=ko-fi&logoColor=white)](https://anshi-sachan.vercel.app) 
+<br/><br/>
 
 <!--- Profile views::::
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshi05&label=Profile%20views&color=0e75b6&style=flat" alt="anshi05" /> </p>
