@@ -23,18 +23,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshi05&label=Profile%20views&color=0e75b6&style=flat" alt="anshi05" /> </p>
 --->
 
-<summary><b>💻 Tech Stack</b></summary>
+<summary><b>💻 Tech Stack</b></summary><br>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 <br/><br/>
 
- <summary><b>⚙️ GitHub Analytics</b></summary>
+ <summary><b>⚙️ GitHub Analytics</b></summary><br>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anshi05&theme=merko&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api?username=anshi05&count_private=true&show_icons=true&hide_border=true&theme=react)
 <br><br>
   
- <summary><b>🏆 GitHub Trophies</b></summary>
+ <summary><b>🏆 GitHub Trophies</b></summary><br>
  
 ![](https://github-profile-trophy.vercel.app/?username=anshi05&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
 
